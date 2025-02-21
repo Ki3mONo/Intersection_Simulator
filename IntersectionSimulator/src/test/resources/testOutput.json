@@ -1,0 +1,18 @@
+{
+  "stepStatuses" : [ {
+    "leftVehicles" : [ ],
+    "leftPedestrians" : [ "p1" ]
+  }, {
+    "leftVehicles" : [ ],
+    "leftPedestrians" : [ ]
+  }, {
+    "leftVehicles" : [ ],
+    "leftPedestrians" : [ ]
+  }, {
+    "leftVehicles" : [ ],
+    "leftPedestrians" : [ ]
+  }, {
+    "leftVehicles" : [ ],
+    "leftPedestrians" : [ ]
+  } ]
+}
